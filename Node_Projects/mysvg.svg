@@ -1,0 +1,15 @@
+<svg height="200" width="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <rect height="100" width="100" fill="floralwhite" x="0" y="0"/>
+    <circle cx="40" cy="40" r="10" fill="deeppink"/>
+    <circle cx="40" cy="60" r="10" fill="deeppink"/>
+    <circle cx="60" cy="60" r="10" fill="deeppink"/>
+    <circle cx="60" cy="40" r="10" fill="deeppink"/>
+    <circle cx="50" cy="50" r="10" fill="hotpink"/>
+    <circle cx="50" cy="50" r="9" fill="deeppink"/>
+    <circle cx="50" cy="50" r="7" fill="red"/>
+    <circle cx="50" cy="50" r="3" fill="firebrick"/>
+    <circle cx="50" cy="50" r="1" fill="brown"/>
+    
+    <polygon points="45,20 50,10 55,20 50,30" style="fill:lime;" />
+
+</svg>
